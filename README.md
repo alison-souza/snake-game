@@ -77,5 +77,5 @@ snake-game/
 │ ├── eat.mp3
 │ ├── gameover.mp3
 │ └── music.mp3
-└── README.md # Documentação do projeto
+└── README.md
 ```
